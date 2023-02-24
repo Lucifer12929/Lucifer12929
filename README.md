@@ -4,7 +4,7 @@
 </a>
 
 
-
+<br />
 <br />
 
 hi, i'm [Prateek Shaw](https://elegant-eclair-b54b34.netlify.app/), a passionate self-taught full stack web developer and a frontend developer intern from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
