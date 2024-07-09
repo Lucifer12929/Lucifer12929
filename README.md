@@ -1,7 +1,5 @@
 ### Hey there 
-<a href="https://www.linkedin.com/in/prateek-shaw-b3b680232/">
-  <img align="left" alt="Prateek LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 
 <br />
